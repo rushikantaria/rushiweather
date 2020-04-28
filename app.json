@@ -1,0 +1,17 @@
+{
+  "name": "rushiweather",
+  "displayName": "rushiweather",
+  "expo": {
+    "name": "rushiweather",
+    "slug": "rushiweather",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
